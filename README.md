@@ -1,6 +1,6 @@
 # Building PES-VCS — A Version Control System from Scratch
 ## Name: Ganesh Aroda C
-##SRN: PES1UG24AM102
+## SRN: PES1UG24AM102
 **Objective:** Build a local version control system that tracks file changes, stores snapshots efficiently, and supports commit history. Every component maps directly to operating system and filesystem concepts.
 
 **Platform:** Ubuntu 22.04
