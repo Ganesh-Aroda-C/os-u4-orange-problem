@@ -5,8 +5,7 @@
 **Platform:** Ubuntu 22.04
 
 ---
-#
-Name: Ganesh Aroda C
+#Name: Ganesh Aroda C
 SRN: PES1UG24AM102
 
 ## Getting Started
